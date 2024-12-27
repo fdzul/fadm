@@ -16,6 +16,8 @@ links:
     url: "mailto:felipe.dzul.m@email.com"
   - label: Dashboards
     url: "mailto:felipe.dzul.m@email.com"
+  - label: Google Scholar
+    url: "https://scholar.google.es/citations?hl=es&pli=1&user=3e3-4VkAAAAJ"
 output:
   postcards::trestles
 ---
