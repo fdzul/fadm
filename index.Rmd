@@ -18,6 +18,9 @@ links:
     url: "mailto:felipe.dzul.m@email.com"
   - label: Google Scholar
     url: "https://scholar.google.es/citations?hl=es&pli=1&user=3e3-4VkAAAAJ"
+  - label: Scientific Articles
+    url: ""
+    
 output:
   postcards::trestles
 ---
