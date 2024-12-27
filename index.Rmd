@@ -19,7 +19,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.es/citations?hl=es&pli=1&user=3e3-4VkAAAAJ"
   - label: Scientific Articles
-    url: ""
+    url: "https://resplendent-taffy-3740fa.netlify.app"
     
 output:
   postcards::trestles
