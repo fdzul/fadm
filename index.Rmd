@@ -1,0 +1,72 @@
+---
+title:  <span style="color:#003300;">Felipe Antonio Dzul Manzanilla</span>
+image: "fadm.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/FdzulM"
+  - label: GitHub
+    url: "https://github.com/fdzul/"
+  - label: Email
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: Talks
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: R Packages
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: Bookdowns
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: Dashboards
+    url: "mailto:felipe.dzul.m@email.com"
+output:
+  postcards::trestles
+---
+ 
+##  **<span style="color:#003300;">Bio</span>**
+
+<span style="color:#660033;">Licenciado en Biología por parte de la Universidad Autónoma de Yucatán, Maestro en Ciencias de la Salud por parte del Instituto Nacional de Salud Pública y Doctor en Entomología Médica por parte de la Universidad Autonóma de Nuevo León. Candidato en la especialidad de métodos estadísticos en la Universidad Veracruzana. Su experiencia profesional, incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la secretaría de salud desde el 2003 hasta la presente fecha y ha impartido la materia de Entomología del dengue (2012-2013) y Artrópodos (2009-2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales y actualmente desarrolla paquetes en [R](https://cran.r-project.org/).</span>  y es un devoto amante de [R](https://cran.r-project.org/), [Julia](https://julialang.org/) y [Python](https://www.python.org/).
+
+##  **<span style="color:#003300;">Educación</span>**
+
+
+**Instituto Nacional de Salud Pública** | Cuernavaca, Morelos, México.
+
+  - Estancia Posdoctoral | 2024 - 2026
+
+
+**Universidad Veracruzana** | Xalapa, Veracruz, México.
+
+  - Especialista en Métodos Estadísticos | 2021 - 2022
+
+**Universidad Autonoma de Nuevo León** | Monterrey, Nuevo León, México.
+
+  - Doctorado en Entomología Médica | 2017 - 2021
+
+**Instituto Nacional de Salud Pública** | Cuernavaca, Morelos, México.
+
+  - Maestría en Ciencias de la Salud | 2004 - 2006
+
+**Universidad Autónoma de Yucatán ** | Mérida, Yucatán, México.
+
+ - Licenciatura en Biología  | 1996 - 2001
+
+
+##  **<span style="color:#003300;">Experiencia Laboral </span>**
+
+
+**Secretaría de Salud de Yucatán** | Responsable de Programa de Prevención y Control del Dengue | 2022 - 2023
+
+
+**Secretaría de Salud de Veracruz** | Asesor de los Programas de ETVs | 2019 - 2021
+
+**Secretaría de Salud de Puebla** | Asesor de los Programas de ETVs | 2016 - 2018
+
+**Secretaría de Salud de Guerrero** | Asesor de los Programas de ETVs | 2013 - 2015
+
+**Secretaría de Salud de Guerrero** | Jefe de Departamento | 2009 - 2012
+
+**Laboratorio Estatal de Salud Pública de Guerrero** | Entomológo | 2003
+
+**Secretaría de Salud de Guerrero** | Entomológo | 2007
+
+**Organización Panamericana de la Salud** | Coordinador Operativo | 2006 - 2007
+
+**Secretaría de Salud de Yucatán** | Entomológo | 2003
