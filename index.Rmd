@@ -13,7 +13,7 @@ links:
   - label: R Packages
     url: "mailto:felipe.dzul.m@email.com"
   - label: Bookdowns
-    url: "mailto:felipe.dzul.m@email.com"
+    url: "https://beamish-zabaione-0c1040.netlify.app"
   - label: Dashboards
     url: "mailto:felipe.dzul.m@email.com"
   - label: Google Scholar
