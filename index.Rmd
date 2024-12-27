@@ -15,7 +15,7 @@ links:
   - label: Bookdowns
     url: "https://beamish-zabaione-0c1040.netlify.app"
   - label: Dashboards
-    url: "mailto:felipe.dzul.m@email.com"
+    url: "https://sparkly-cannoli-032c62.netlify.app"
   - label: Google Scholar
     url: "https://scholar.google.es/citations?hl=es&pli=1&user=3e3-4VkAAAAJ"
   - label: Scientific Articles
