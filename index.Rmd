@@ -8,8 +8,8 @@ links:
     url: "https://github.com/fdzul/"
   - label: Email
     url: "mailto:felipe.dzul.m@email.com"
-  - label: Talks
-    url: "mailto:felipe.dzul.m@email.com"
+  - label: Courses
+    url: "https://spontaneous-cendol-bba39f.netlify.app"
   - label: R Packages
     url: "https://symphonious-gingersnap-0f90aa.netlify.app"
   - label: Bookdowns
