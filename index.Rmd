@@ -11,7 +11,7 @@ links:
   - label: Talks
     url: "mailto:felipe.dzul.m@email.com"
   - label: R Packages
-    url: "mailto:felipe.dzul.m@email.com"
+    url: "https://symphonious-gingersnap-0f90aa.netlify.app"
   - label: Bookdowns
     url: "https://beamish-zabaione-0c1040.netlify.app"
   - label: Dashboards
